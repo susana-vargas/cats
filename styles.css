@@ -18,3 +18,13 @@
     width: 330px;
     height: auto;
   }
+
+.one-parrafo {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+.sig-img  {
+   
+}
